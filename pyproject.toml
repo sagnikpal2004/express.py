@@ -1,0 +1,12 @@
+[project]
+name = "Express.py"
+description = ""
+version = "0.1.0"
+
+authors = [{ name = "Sagnik Pal" }]
+
+readme = "README.md"
+license = { text = "MIT" }
+
+[project.urls]
+Repository = ""

@@ -1,0 +1,7 @@
+{
+    "python.analysis.typeCheckingMode": "standard",
+    "files.exclude": {
+        ".venv": true,
+        ".vscode": true
+    }
+}
